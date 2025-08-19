@@ -3,7 +3,7 @@
 
 https://yyoossk.blogspot.com/2023/03/main.html
 
-2.Pokettohiro!抽出.zipファイルをダウンロード＆解凍
+2.Pokettohiro!.zipファイルをダウンロード＆解凍
 
 https://github.com/yyoossk/Shounen-Ninja-Sasuke-NS/releases
 
