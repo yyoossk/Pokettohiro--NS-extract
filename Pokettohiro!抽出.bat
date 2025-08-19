@@ -1,0 +1,1 @@
+bincut.exe main_uncompressed Pokettohiro!.gbc 04F18373 5318373
